@@ -2,6 +2,17 @@
 
 Browse by security decision and evidence stage. Selected work appears on the profile; planned work and upstream material remain discoverable here.
 
+## Sovereign infrastructure, national frameworks and industry work
+
+| Repository | Purpose | Stage |
+| --- | --- | --- |
+| [sovereign-disconnected-cloud-security](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security) | Sovereign and disconnected cloud security: local autonomy, flow contracts, offline promotion, recovery, and a tested capacity-planning reference. | Reference implementation and design |
+| [sovereign-landing-zone](https://github.com/cybersmeashish/sovereign-landing-zone) | Sovereign landing-zone reference design: jurisdiction, identity, operator authority, keys, network boundaries, local dependencies, and acceptance evidence. | Reference design / sector workspace |
+| [national-security-frameworks](https://github.com/cybersmeashish/national-security-frameworks) | Original national cyber capability framework research: governance, sovereign infrastructure, critical services, assurance, response, and evidence. | Reference design / sector workspace |
+| [government-security](https://github.com/cybersmeashish/government-security) | Public services, sovereign operations, and accountable national cyber capability. | Reference design / sector workspace |
+| [bfsi-security](https://github.com/cybersmeashish/bfsi-security) | Banking, financial services, and insurance: action authority, resilience, and cryptographic dependencies. | Reference design / sector workspace |
+| [oil-gas-security](https://github.com/cybersmeashish/oil-gas-security) | Operational technology, remote operations, safety interfaces, and isolated-site security. | Reference design / sector workspace |
+
 ## AI security
 
 | Repository | Purpose | Stage |
@@ -9,16 +20,16 @@ Browse by security decision and evidence stage. Selected work appears on the pro
 | [ade](https://github.com/cybersmeashish/ade) | Exploration workspace reserved for documented experiments; no published implementation yet. | Planned lab |
 | [ai-in-security](https://github.com/cybersmeashish/ai-in-security) | Research workspace for AI-assisted security operations; roadmap and links to implemented examples. | Research notes |
 | [aisoc_ashish](https://github.com/cybersmeashish/aisoc_ashish) | AI security operations research notes and blueprint material; no deployed SOC is claimed. | Research notes |
-| [AISoc_using_Nemoclaw_openclaw](https://github.com/cybersmeashish/AISoc_using_Nemoclaw_openclaw) | Planned workspace for agentic SOC integration experiments and evaluation notes. | Planned lab |
-| [AI_Soc_prototype](https://github.com/cybersmeashish/AI_Soc_prototype) | Planned AI SOC prototype workspace; experiments and evaluation evidence are not yet published. | Planned lab |
+| [AISoc_using_Nemoclaw_openclaw](https://github.com/cybersmeashish/AISoc_using_Nemoclaw_openclaw) | Consolidated into [ai-in-security](https://github.com/cybersmeashish/ai-in-security); retained history. | Archived redirect |
+| [AI_Soc_prototype](https://github.com/cybersmeashish/AI_Soc_prototype) | Consolidated into [ai-in-security](https://github.com/cybersmeashish/ai-in-security); retained history. | Archived redirect |
 | [cybernonics_tools](https://github.com/cybersmeashish/cybernonics_tools) | Agent honeypot reference implementation, network security architecture tools, and browser-based assessment aids. | Reference implementation |
-| [Enterprise-AI-architecture](https://github.com/cybersmeashish/Enterprise-AI-architecture) | Planned enterprise AI architecture workspace, connected to the Sovereign AI reference implementation. | Planned lab |
+| [Enterprise-AI-architecture](https://github.com/cybersmeashish/Enterprise-AI-architecture) | Consolidated into [sovereign-AI](https://github.com/cybersmeashish/sovereign-AI); retained history. | Archived redirect |
 | [Guardrails](https://github.com/cybersmeashish/Guardrails) | Fork of NVIDIA-NeMo/Guardrails for LLM security research; upstream authorship retained. | Upstream fork |
 | [langchaingo](https://github.com/cybersmeashish/langchaingo) | Fork of tmc/langchaingo for agent integration research; upstream authorship retained. | Upstream fork |
 | [NIST-privacy-assesment-for-AI-workloads](https://github.com/cybersmeashish/NIST-privacy-assesment-for-AI-workloads) | Planned AI privacy-assessment workspace; implementation and assessment evidence remain future work. | Planned lab |
-| [nvidia-nooa](https://github.com/cybersmeashish/nvidia-nooa) | Reserved agent-framework research workspace; integration experiments are not yet published. | Planned lab |
+| [nvidia-nooa](https://github.com/cybersmeashish/nvidia-nooa) | Consolidated into [ai-in-security](https://github.com/cybersmeashish/ai-in-security); retained history. | Archived redirect |
 | [ollama](https://github.com/cybersmeashish/ollama) | Fork of ollama/ollama for local model research; upstream authorship retained. | Upstream fork |
-| [secops-ai-bot](https://github.com/cybersmeashish/secops-ai-bot) | Planned security-operations bot workspace; no runnable bot is currently published. | Planned lab |
+| [secops-ai-bot](https://github.com/cybersmeashish/secops-ai-bot) | Consolidated into [ai-in-security](https://github.com/cybersmeashish/ai-in-security); retained history. | Archived redirect |
 | [sovereign-AI](https://github.com/cybersmeashish/sovereign-AI) | AI sovereignty reference control plane: placement, tool authorization, signed bundles, retrieval, and evidence. | Reference implementation |
 | [threat-predictor](https://github.com/cybersmeashish/threat-predictor) | Research workspace for threat triage and prediction hypotheses; no validated prediction model is published. | Research notes |
 | [vernacular-AI-assistant](https://github.com/cybersmeashish/vernacular-AI-assistant) | Planned multilingual AI assistant workspace; security evaluation and runnable artifacts remain future work. | Planned lab |
@@ -42,9 +53,9 @@ Browse by security decision and evidence stage. Selected work appears on the pro
 | [ARTEMIS](https://github.com/cybersmeashish/ARTEMIS) | Fork of Stanford-Trinity/ARTEMIS for security research; upstream authorship retained. | Upstream fork |
 | [ctf-writeups](https://github.com/cybersmeashish/ctf-writeups) | Evidence-led CTF writeup workspace; no unverified competition placements or platform rankings. | Planned lab |
 | [custom-waf](https://github.com/cybersmeashish/custom-waf) | Planned web application firewall lab for rule evaluation, bypass cases, and benign controls. | Planned lab |
-| [OmniDiscovery-cybersmeashish](https://github.com/cybersmeashish/OmniDiscovery-cybersmeashish) | Planned reconnaissance workspace; the current adaptation lives in OmniDiscovery-thecybersignal. | Planned lab |
+| [OmniDiscovery-cybersmeashish](https://github.com/cybersmeashish/OmniDiscovery-cybersmeashish) | Consolidated into [OmniDiscovery-thecybersignal](https://github.com/cybersmeashish/OmniDiscovery-thecybersignal); retained history. | Archived redirect |
 | [OmniDiscovery-thecybersignal](https://github.com/cybersmeashish/OmniDiscovery-thecybersignal) | Sudomy-derived reconnaissance workflow with plugins and reports; original upstream license and attribution retained. | Upstream adaptation |
-| [Passive-recon-tool-cybersmeashish](https://github.com/cybersmeashish/Passive-recon-tool-cybersmeashish) | Planned passive-reconnaissance workspace; documented adaptation is linked separately. | Planned lab |
+| [Passive-recon-tool-cybersmeashish](https://github.com/cybersmeashish/Passive-recon-tool-cybersmeashish) | Consolidated into [OmniDiscovery-thecybersignal](https://github.com/cybersmeashish/OmniDiscovery-thecybersignal); retained history. | Archived redirect |
 | [secure-coding-examples](https://github.com/cybersmeashish/secure-coding-examples) | Synthetic object-authorization lab: vulnerable baseline, tenant-bound access checks, and regression cases. | Reference lab |
 | [vuln-scanner](https://github.com/cybersmeashish/vuln-scanner) | Planned vulnerability-scanner lab; detection coverage and false-positive evidence remain future work. | Planned lab |
 

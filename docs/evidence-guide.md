@@ -18,6 +18,7 @@
 | Agent-honeypot tests | 41 passed | Synthetic local events, loopback server, and mocked AWS/Kubernetes response paths |
 | Application authorization lab | 9 passed | In-memory fixture with trusted-context precondition |
 | Cryptographic inventory lab | 9 passed | Inventory classification and input checks; no cryptographic implementation verification |
+| Sovereign-cloud capacity reference | 9 passed | Arithmetic and input validation; no product throughput, local autonomy or sovereignty assurance |
 | Network security blueprint validator | Passed: 60 controls, 10 domains, 6 architectures | Catalog and mapping consistency, not control effectiveness or certification |
 
 The existing suites emitted deprecation and resource warnings. Passing these checks is a bounded local observation, not a production assurance claim.

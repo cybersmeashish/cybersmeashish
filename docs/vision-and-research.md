@@ -7,6 +7,8 @@ Build an influential security practice through original research, practical fram
 - **Security transformation:** turn business priorities into accepted ownership, control decisions, and operational evidence.
 - **Application security and ethical hacking:** use authorized research to produce reproducible cases and regression lessons.
 - **AI security:** investigate retrieval boundaries, agent authority, model dependencies, misuse, and monitoring.
+- **Sovereign and disconnected cloud:** connect local identity, operator authority, data and key custody, approved transfers, dependencies, and recovery.
+- **National cyber capability:** research accountable frameworks linking sovereign infrastructure, essential services, assurance, skills, and resilience.
 - **Cloud security:** connect identity, network paths, placement, deployment changes, and recovery.
 - **Post-quantum readiness:** inventory dependencies and test migrations before making assurance claims.
 - **Industry adaptation:** tailor the control-evidence method to each process, sector, and relevant requirement.
