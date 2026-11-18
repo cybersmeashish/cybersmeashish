@@ -1,0 +1,45 @@
+name: Collaboration or scoped engagement
+description: Discuss a non-confidential security problem, research idea, or workshop.
+title: "[Collaboration] "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public issue. Share only a non-confidential summary. Do not include credentials, customer records, private infrastructure, or undisclosed vulnerabilities."
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Security transformation and frameworks
+        - AI or application architecture
+        - Cloud security
+        - Post-quantum readiness
+        - Research collaboration
+        - Workshop or education
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Business process and decision
+      description: What non-confidential problem should the work address?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired artifact or outcome
+      description: Describe the review, design, experiment, or learning result.
+    validations:
+      required: true
+  - type: input
+    id: timing
+    attributes:
+      label: Timing or constraints
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public summary
+      options:
+        - label: I have included only information suitable for a public discussion.
+          required: true

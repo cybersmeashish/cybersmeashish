@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ashish Srivastava — Security transformation and research</title>
+<desc id="desc">Connecting security leadership, AI, cloud, application security, and post-quantum readiness through frameworks, code, and evidence.</desc>
+<rect width="1200" height="300" rx="18" fill="#101e31"/>
+<path d="M940 30H1140V270H940M1015 30V270M940 100H1140M940 200H1140" fill="none" stroke="#29445e" stroke-width="2"/>
+<circle cx="1015" cy="100" r="9" fill="#56d2ba"/><circle cx="1090" cy="200" r="9" fill="#70b3fa"/>
+<rect x="48" y="46" width="48" height="5" rx="2.5" fill="#56d2ba"/>
+<text x="48" y="98" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Ashish Srivastava</text>
+<text x="48" y="145" fill="#b9d0e7" font-family="Arial, sans-serif" font-size="27">Security transformation &amp; research</text>
+<text x="48" y="198" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">AI security  •  Cloud  •  Applications  •  Post-quantum readiness</text>
+<text x="48" y="244" fill="#56d2ba" font-family="Arial, sans-serif" font-size="18">Business decisions → frameworks → code → evidence</text>
+</svg>
