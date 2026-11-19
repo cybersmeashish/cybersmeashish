@@ -1,5 +1,10 @@
 # Work with Ashish
 
+Explore the [vCISO executive landing page](https://cybersmeashish.github.io/) for business priorities, service scopes, proposed delivery milestones and inspectable research.
+
+Engagement formats include an executive decision diagnostic, a focused transformation sprint and ongoing fractional security leadership. The [engagement method](https://github.com/cybersmeashish/cybersmeashish.github.io/blob/main/docs/engagement-method.md) defines scope, ownership, evidence and acceptance gates.
+
+
 Bring a business process, a security decision, and a defined scope. The starting conversation should establish which outcomes matter and what evidence is needed.
 
 ## Collaboration formats
