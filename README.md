@@ -2,6 +2,16 @@
 
 # Ashish Srivastava
 
+**vCISO advisory · Security transformation · AI assurance**
+
+I help enterprise leadership connect **security, risk, governance and compliance** to business priorities, accountable controls and evidence.
+
+[**Visit my executive landing page**](https://cybersmeashish.github.io/) ·
+[30 business problems and service scopes](https://cybersmeashish.github.io/#agenda) ·
+[A scoped 90-day delivery roadmap](https://cybersmeashish.github.io/#roadmap) ·
+[Work with Ashish](https://cybersmeashish.github.io/#engage)
+
+
 I build security research, reference designs, and tools that connect technical controls to business decisions. My focus spans **sovereign and disconnected cloud, sovereign landing zones, Sovereign AI and security, security transformation, application security, ethical hacking, and post-quantum readiness**.
 
 **The question behind the work:** what can this system reach and do, who owns that authority, and what evidence shows the control works?
