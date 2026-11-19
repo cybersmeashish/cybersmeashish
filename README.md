@@ -30,6 +30,20 @@ My research connects **local security autonomy, data and operator boundaries, ke
 
 [Industry work map](docs/industries.md) · [Contribution direction through 2030](docs/road-to-2030.md)
 
+## Enterprise AI security product
+
+[Enterprise AI Gateway](https://github.com/cybersmeashish/enterprise-ai-security-architectures/tree/main/products/enterprise-ai-gateway) is the first product in my
+[Enterprise AI Security Architectures](https://github.com/cybersmeashish/enterprise-ai-security-architectures) portfolio: governed model access, tenant/document
+boundaries, controlled synthetic tool authority and traceable AI governance evidence.
+
+**Security reference preview v0.1.0:** 92 unique tests, 12 operational scenarios, 25 risk records,
+20 control/test mappings and 14 governance templates. Large-scale and sovereign deployment blueprints
+are distinguished from implemented local behavior.
+
+[Product website](https://cybersmeashish.github.io/enterprise-ai-security-architectures/) ·
+[Inspect the evidence](https://github.com/cybersmeashish/enterprise-ai-security-architectures/blob/main/evidence/README.md) ·
+[Executive decision brief](https://github.com/cybersmeashish/enterprise-ai-security-architectures/blob/main/products/enterprise-ai-gateway/docs/executive-brief.md)
+
 ## Selected work
 
 | Project | Security decision | Inspectable evidence |
