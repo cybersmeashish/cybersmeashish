@@ -54,6 +54,14 @@ are distinguished from implemented local behavior.
 [Inspect the evidence](https://github.com/cybersmeashish/enterprise-ai-security-architectures/blob/main/evidence/README.md) ·
 [Executive decision brief](https://github.com/cybersmeashish/enterprise-ai-security-architectures/blob/main/products/enterprise-ai-gateway/docs/executive-brief.md)
 
+## Modern SOC Design
+
+[Modern SOC Design](https://github.com/cybersmeashish/modern-soc-design) connects **24 layers, 20 architecture patterns and 224 structured design constraints** across telemetry, data, detection, investigation, AI, response, sovereignty, recovery and workforce decisions.
+
+[Layer catalog](https://github.com/cybersmeashish/modern-soc-design/blob/main/docs/layer-index.md) · [Architecture patterns](https://github.com/cybersmeashish/modern-soc-design/blob/main/docs/pattern-index.md) · [Executive brief](https://github.com/cybersmeashish/modern-soc-design/blob/main/docs/executive-brief.md).
+
+**Stage:** reference architectures with locally checked planning and record-consistency tools. Patterns are distinguished from deployed SOCs and operational workload measurements.
+
 ## Selected work
 
 | Project | Security decision | Inspectable evidence |
