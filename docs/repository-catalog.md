@@ -86,3 +86,9 @@ Browse by security decision and evidence stage. Selected work appears on the pro
 ## Attribution and interpretation
 
 Upstream forks and adaptations are identified explicitly. They do not establish a personal contribution without a specific change and its evidence. Research roadmaps indicate intended work. Local examples are distinct from production deployment, independent review, and real-world adoption.
+
+## Modern SOC architecture
+
+| Repository | Role | Evidence stage |
+|---|---|---|
+| [modern-soc-design](https://github.com/cybersmeashish/modern-soc-design) | 24-layer review, 20 deployment archetypes, 224 constraint records, control/evidence maps and capacity/workforce planning | Original reference designs; scoped local planning and documentation checks, not deployed SOC validation |
