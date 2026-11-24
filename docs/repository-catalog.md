@@ -120,3 +120,9 @@ Eight focused repositories connect original owned labs, useful tooling, detectio
 | Industrial & Manufacturing | [CISO-blueprint-and-tools-for-Industrial-and-Manufacturing](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Industrial-and-Manufacturing) | 4 |
 | Healthcare & Life Sciences | [CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences) | 3 |
 | Logistics, Public Sector & Others | [CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others) | 4 |
+
+## Cloud and AI infrastructure research
+
+| Repository | Contribution and evidence stage |
+|---|---|
+| [cybersecurity-research](https://github.com/cybersmeashish/cybersecurity-research) | AIA-001: original comparative authority-binding study; eight synthetic attack-chain models, 144 fixtures, one local mock backend and disclosed novelty limits. No provider vulnerability confirmed. |
