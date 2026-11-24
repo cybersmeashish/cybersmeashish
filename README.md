@@ -78,6 +78,12 @@ are distinguished from implemented local behavior.
 
 **Stage:** reference architectures with locally checked planning and record-consistency tools. Patterns are distinguished from deployed SOCs and operational workload measurements.
 
+## Cloud and AI infrastructure research
+
+[Cybersecurity Research](https://github.com/cybersmeashish/cybersecurity-research) begins with [AIA-001: Who authorizes the runtime?](https://github.com/cybersmeashish/cybersecurity-research/blob/main/studies/001-ai-infrastructure-authority-bindings/PAPER.md), comparing authority bindings across AWS, Azure, Google Cloud, Kubernetes, IAM, networking, AI artifacts, RAG and agent tools.
+
+**Evidence:** five candidate organizing categories, eight attack-chain models, 144 synthetic fixtures, 24 local runtime cases and 13 regression test methods. The runtime cases use one shared mock backend with four profile labels. This is original comparative synthesis and locally tested research; new provider vulnerabilities and global novelty are not established.
+
 ## Contributions you can inspect and reproduce
 
 Eight focused repositories connect original owned labs, useful tooling, detection, research, AI evaluation, isolated-site behaviour, post-quantum smoke work and executive decisions. Each currently has one original contribution with explicit method and limits.
