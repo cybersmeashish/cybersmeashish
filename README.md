@@ -80,9 +80,11 @@ are distinguished from implemented local behavior.
 
 ## Cloud and AI infrastructure research
 
-[Cybersecurity Research](https://github.com/cybersmeashish/cybersecurity-research) begins with [AIA-001: Who authorizes the runtime?](https://github.com/cybersmeashish/cybersecurity-research/blob/main/studies/001-ai-infrastructure-authority-bindings/PAPER.md), comparing authority bindings across AWS, Azure, Google Cloud, Kubernetes, IAM, networking, AI artifacts, RAG and agent tools.
+[Cybersecurity Research](https://github.com/cybersmeashish/cybersecurity-research) begins with [AIA-001: Who authorizes the runtime?](https://github.com/cybersmeashish/cybersecurity-research/blob/main/research/001-cloud-ai-infrastructure/studies/001-ai-infrastructure-authority-bindings/PAPER.md), comparing authority bindings across AWS, Azure, Google Cloud, Kubernetes, IAM, networking, AI artifacts, RAG and agent tools.
 
 **Evidence:** five candidate organizing categories, eight attack-chain models, 144 synthetic fixtures, 24 local runtime cases and 13 regression test methods. The runtime cases use one shared mock backend with four profile labels. This is original comparative synthesis and locally tested research; new provider vulnerabilities and global novelty are not established.
+
+The same repository includes a [Proactive Threat Hunting Framework](https://github.com/cybersmeashish/cybersecurity-research/tree/main/frameworks/proactive-threat-hunting): 17 procedures spanning endpoint, identity, email, cloud and other telemetry, with 34 synthetic scenarios and 19 regression checks. Coverage gaps remain inconclusive; IOC matches and baseline novelty are candidate leads. Native SIEM validation and live customer hunts are not claimed.
 
 ## Contributions you can inspect and reproduce
 
