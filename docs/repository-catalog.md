@@ -92,3 +92,19 @@ Upstream forks and adaptations are identified explicitly. They do not establish 
 | Repository | Role | Evidence stage |
 |---|---|---|
 | [modern-soc-design](https://github.com/cybersmeashish/modern-soc-design) | 24-layer review, 20 deployment archetypes, 224 constraint records, control/evidence maps and capacity/workforce planning | Original reference designs; scoped local planning and documentation checks, not deployed SOC validation |
+
+## Eight focused contribution repositories
+
+Eight focused repositories connect original owned labs, useful tooling, detection, research, AI evaluation, isolated-site behaviour, post-quantum smoke work and executive decisions. Each currently has one original contribution with explicit method and limits.
+
+| Area | Contribution 001 | Evidence stage |
+|---|---|---|
+| [Original vulnerability research](https://github.com/cybersmeashish/vulnerability-research-and-disclosures) | [Revocation gap between document lookup and cached hydration](https://github.com/cybersmeashish/vulnerability-research-and-disclosures/blob/main/contributions/001-revocation-gap.md) | Owned synthetic reproduction and correction; no vendor vulnerability or CVE claimed |
+| [A signature security tool](https://github.com/cybersmeashish/security-assurance-tools) | [Evidence Bundle Checker: bounded offline manifest validation](https://github.com/cybersmeashish/security-assurance-tools/blob/main/contributions/001-evidence-bundle-checker.md) | Runnable local CLI with negative fixtures; unsigned manifests do not prove authenticity |
+| [Useful defensive contributions](https://github.com/cybersmeashish/security-detections-and-fixes) | [Detect allowed document hydration with a stale permission epoch](https://github.com/cybersmeashish/security-detections-and-fixes/blob/main/contributions/001-stale-epoch-detection.md) | Experimental Sigma proposal and tested reference matcher; no upstream acceptance claimed |
+| [Inspectable research and assessments](https://github.com/cybersmeashish/security-research-and-assessments) | [Access decisions under uncertain local time](https://github.com/cybersmeashish/security-research-and-assessments/blob/main/contributions/001-time-uncertainty-study.md) | Synthetic parameter study with observations and explicit clock-bound assumptions |
+| [AI security experiments](https://github.com/cybersmeashish/ai-security-evaluations) | [Semantic similarity is not permission or query equivalence](https://github.com/cybersmeashish/ai-security-evaluations/blob/main/contributions/001-semantic-cache-evaluation.md) | Actual local learned-encoder experiment on synthetic pairs; no answering LLM |
+| [Cloud and sovereign-security labs](https://github.com/cybersmeashish/cloud-and-sovereign-security-labs) | [Isolated-site service: policy expiry and dependency failure](https://github.com/cybersmeashish/cloud-and-sovereign-security-labs/blob/main/contributions/001-isolated-site-policy.md) | Actual local HTTP/isolation experiment; no cloud-provider deployment |
+| [Post-quantum engineering](https://github.com/cybersmeashish/post-quantum-security-research) | [ML-KEM and ML-DSA: purpose-aware compatibility smoke study](https://github.com/cybersmeashish/post-quantum-security-research/blob/main/contributions/001-pqc-compatibility.md) | Maintained-library local crypto smoke tests; no FIPS validation or production protocol claim |
+| [Executive communication](https://github.com/cybersmeashish/security-executive-briefs) | [Fund authorization freshness before expanding AI retrieval](https://github.com/cybersmeashish/security-executive-briefs/blob/main/contributions/001-authorization-investment.md) | Original executive decision brief linked to bounded lab evidence; no client outcomes |
+
