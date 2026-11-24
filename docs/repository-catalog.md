@@ -10,8 +10,8 @@ Browse by security decision and evidence stage. Selected work appears on the pro
 | [sovereign-landing-zone](https://github.com/cybersmeashish/sovereign-landing-zone) | Sovereign landing-zone reference design: jurisdiction, identity, operator authority, keys, network boundaries, local dependencies, and acceptance evidence. | Reference design / sector workspace |
 | [national-security-frameworks](https://github.com/cybersmeashish/national-security-frameworks) | Original national cyber capability framework research: governance, sovereign infrastructure, critical services, assurance, response, and evidence. | Reference design / sector workspace |
 | [government-security](https://github.com/cybersmeashish/government-security) | Public services, sovereign operations, and accountable national cyber capability. | Reference design / sector workspace |
-| [bfsi-security](https://github.com/cybersmeashish/bfsi-security) | Banking, financial services, and insurance: action authority, resilience, and cryptographic dependencies. | Reference design / sector workspace |
-| [oil-gas-security](https://github.com/cybersmeashish/oil-gas-security) | Operational technology, remote operations, safety interfaces, and isolated-site security. | Reference design / sector workspace |
+| [bfsi-security](https://github.com/cybersmeashish/bfsi-security) | Banking, financial services, and insurance: action authority, resilience, and cryptographic dependencies. | Legacy history and redirects; [active sector folder](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services/tree/main/BFSI) |
+| [oil-gas-security](https://github.com/cybersmeashish/oil-gas-security) | Operational technology, remote operations, safety interfaces, and isolated-site security. | Legacy history and redirects; [active sector folder](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources/tree/main/Oil%20%26%20Gas) |
 
 ## AI security
 
@@ -108,3 +108,15 @@ Eight focused repositories connect original owned labs, useful tooling, detectio
 | [Post-quantum engineering](https://github.com/cybersmeashish/post-quantum-security-research) | [ML-KEM and ML-DSA: purpose-aware compatibility smoke study](https://github.com/cybersmeashish/post-quantum-security-research/blob/main/contributions/001-pqc-compatibility.md) | Maintained-library local crypto smoke tests; no FIPS validation or production protocol claim |
 | [Executive communication](https://github.com/cybersmeashish/security-executive-briefs) | [Fund authorization freshness before expanding AI retrieval](https://github.com/cybersmeashish/security-executive-briefs/blob/main/contributions/001-authorization-investment.md) | Original executive decision brief linked to bounded lab evidence; no client outcomes |
 
+
+## CISO industry blueprint and tool repositories
+
+| Industry | Repository | Sub-industry folders |
+|---|---|---:|
+| Financial & Professional Services | [CISO-blueprint-and-tools-for-Financial-and-Professional-Services](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services) | 4 |
+| Energy, Utilities & Natural Resources | [CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources) | 5 |
+| Technology, Media & Telecom (TMT) | [CISO-blueprint-and-tools-for-Technology-Media-and-Telecom](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Technology-Media-and-Telecom) | 4 |
+| Consumer & Retail | [CISO-blueprint-and-tools-for-Consumer-and-Retail](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Consumer-and-Retail) | 3 |
+| Industrial & Manufacturing | [CISO-blueprint-and-tools-for-Industrial-and-Manufacturing](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Industrial-and-Manufacturing) | 4 |
+| Healthcare & Life Sciences | [CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences) | 3 |
+| Logistics, Public Sector & Others | [CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others) | 4 |
