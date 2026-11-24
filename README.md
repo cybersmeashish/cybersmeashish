@@ -16,6 +16,10 @@ I build security research, reference designs, and tools that connect technical c
 
 **The question behind the work:** what can this system reach and do, who owns that authority, and what evidence shows the control works?
 
+## Capability work directory
+
+[Ashish work directory](https://github.com/cybersmeashish/Ashish-work-directory) organizes 33 capability workspaces across endpoint/workload, network/access, identity, data, security operations, application/exposure risk and emerging areas. Each folder is initialized for future work; this directory is navigation and a contribution plan, not evidence of completed delivery across all capabilities.
+
 ## Start here
 
 | If you are reviewing… | Begin with… |
