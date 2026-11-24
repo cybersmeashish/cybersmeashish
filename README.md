@@ -30,13 +30,29 @@ My research connects **local security autonomy, data and operator boundaries, ke
 
 [Sovereign & disconnected cloud](https://github.com/cybersmeashish/sovereign-disconnected-cloud-security) · [Sovereign landing zone](https://github.com/cybersmeashish/sovereign-landing-zone) · [National security frameworks](https://github.com/cybersmeashish/national-security-frameworks)
 
-## Industry workspaces
+## Industry blueprints and tools
+
+Seven repositories organize 27 sub-industry workspaces. Existing BFSI and Oil & Gas reference material has moved into the matching folders; other folders are initialized for future original contributions. These workspaces do not assert client delivery or completed sector assessments.
+
+| Industry | Sub-industry folders |
+|---|---:|
+| [Financial & Professional Services](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services) | 4 |
+| [Energy, Utilities & Natural Resources](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources) | 5 |
+| [Technology, Media & Telecom (TMT)](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Technology-Media-and-Telecom) | 4 |
+| [Consumer & Retail](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Consumer-and-Retail) | 3 |
+| [Industrial & Manufacturing](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Industrial-and-Manufacturing) | 4 |
+| [Healthcare & Life Sciences](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Healthcare-and-Life-Sciences) | 3 |
+| [Logistics, Public Sector & Others](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Logistics-Public-Sector-and-Others) | 4 |
+
+[Explore the full sub-industry map](docs/industries.md).
+
+## Current sector reference material
 
 | Industry focus | Decisions and future material |
 | --- | --- |
 | [Government](https://github.com/cybersmeashish/government-security) | Sovereign public services, local operational authority, accountable cyber capability |
-| [BFSI](https://github.com/cybersmeashish/bfsi-security) | Transaction authority, customer boundaries, resilient operations, cryptographic dependencies |
-| [Oil & Gas](https://github.com/cybersmeashish/oil-gas-security) | IT/OT boundaries, remote facilities, safety interfaces, local security and recovery |
+| [BFSI](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Financial-and-Professional-Services/tree/main/BFSI) | Transaction authority, customer boundaries, resilient operations, cryptographic dependencies |
+| [Oil & Gas](https://github.com/cybersmeashish/CISO-blueprint-and-tools-for-Energy-Utilities-and-Natural-Resources/tree/main/Oil%20%26%20Gas) | IT/OT boundaries, remote facilities, safety interfaces, local security and recovery |
 
 [Industry work map](docs/industries.md) · [Contribution direction through 2030](docs/road-to-2030.md)
 
