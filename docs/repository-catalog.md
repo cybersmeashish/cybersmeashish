@@ -127,3 +127,9 @@ Eight focused repositories connect original owned labs, useful tooling, detectio
 |---|---|
 | [cybersecurity-research](https://github.com/cybersmeashish/cybersecurity-research) | AIA-001: original comparative authority-binding study; eight synthetic attack-chain models, 144 fixtures, one local mock backend and disclosed novelty limits. No provider vulnerability confirmed. |
 | [Proactive threat-hunting framework](https://github.com/cybersmeashish/cybersecurity-research/tree/main/frameworks/proactive-threat-hunting) | 17 procedures across 13 telemetry domains; local normalized SQL, 34 synthetic scenarios and 19 boundary checks. No live customer/production SIEM validation claimed. |
+
+## Capability work directory
+
+| Repository | Stage |
+|---|---|
+| [Ashish-work-directory](https://github.com/cybersmeashish/Ashish-work-directory) | 33 capability folders across seven groups; initialized contribution workspaces with README navigation and a work-record template. |
